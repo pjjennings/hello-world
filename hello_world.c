@@ -19,4 +19,5 @@
 int main(int argc, char argv[])
 {
 	printf("Hello world.\n");
+	printf("The git Id of this program: %s\n", $Id$);
 }
